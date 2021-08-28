@@ -1,0 +1,14 @@
+{
+  "name": "invoice-read-readyfile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "READYFILE",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-textract": "^3.25.0"
+  }
+}
